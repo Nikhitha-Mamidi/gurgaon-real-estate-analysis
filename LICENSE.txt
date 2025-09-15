@@ -1,0 +1,8 @@
+This dataset is made available for educational purposes only.
+
+Source: 99acres.com  
+Collected as part of the CampusX DSMP 2023 program.
+
+Do not use for commercial purposes or redistribution without permission.
+
+If you're the data owner and wish to request removal, please contact the uploader or Kaggle directly.
